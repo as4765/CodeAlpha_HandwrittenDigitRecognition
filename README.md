@@ -44,5 +44,5 @@ Open `CodeAlpha_HandwrittenDigitRecognition.ipynb` in Google Colab, select
 a T4 GPU runtime, and click **Runtime → Run all**.
 
 ## Author
-[Your Name]
+Abishek SM
 Machine Learning Intern at CodeAlpha
